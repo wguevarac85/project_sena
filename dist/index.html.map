@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["index.pug"],"sourcesContent":["extends ../templates/template\r\nblock header       \r\n    h1 esto es el index"],"file":"index.html"}

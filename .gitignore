@@ -1,0 +1,14 @@
+node_modules
+yarn.lock
+yarn-error.log
+tsconfig.json
+tailwind.config.js
+postcss.config.js
+package.json
+package-lock.json
+main.js
+index.js
+gulpfile.esm.js
+src
+.vscode
+.idea
